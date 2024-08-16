@@ -44,7 +44,7 @@ a:hover {
 
 /* Ensure the section takes up the full width of the viewport */
 #hero {
-  background: url("banner.jpg") no-repeat center center;
+  background: url("https://imgur.com/SJXgFS4") no-repeat center center;
   background-size: cover;
   filter: grayscale(100%);
 
